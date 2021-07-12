@@ -1,0 +1,5 @@
+venv/
+.ipynb_checkpoints/
+config/
+csv/
+./idol_artist_list.xlsx
